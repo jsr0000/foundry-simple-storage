@@ -1,6 +1,6 @@
-## Foundry
+## Foundry Simple Storage
 
-**Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
+**This was my first project in the foundry fundamentals course on cyfrin updraft.**
 
 Foundry consists of:
 
